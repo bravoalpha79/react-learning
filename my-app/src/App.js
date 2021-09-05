@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import ControlledForm from './components/ControlledForm';
+import UseStateWithObjects from './components/UseStateWithObjects';
 
 
 function App() {
   return (
     <div className="App">
-      <ControlledForm />
+      <UseStateWithObjects />
     </div>
   );
 }
